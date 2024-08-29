@@ -15,4 +15,7 @@ Make sure you have node.js installed (https://nodejs.org/en)
 2) Attempts to remove all discord friends
 3) Attemps to clear all dms
 
-## PLEASE NOTE: ANY DAMAGE CAUSED BY THIS, I DO NOT TAKE RESPONSIBILITY, THIS IS MADE SO PEOPLE CAN SEE HOW DANGEROUS BOTS CAN BE, PLEASE MAKE SURE YOU ARE THW OWNER OF THE ACCOUNT BEFORE RUNNIG THIS
+
+**DISCLAIMER:**
+This tool is designed to demonstrate the potential risks and consequences of using automated bots. **I do not take responsibility for any damage caused by this tool.** Ensure that you are the rightful owner of the account before running this script. Unauthorized use or abuse of this tool is strongly discouraged.
+
