@@ -1,4 +1,4 @@
-# Account fucker
+# Account Destroyer
 ### The best tool out there to destroy an account
 
 ## Setup:
